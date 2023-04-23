@@ -1,0 +1,15 @@
+﻿  sorting.cpp
+C:\Users\Moldovan\source\repos\sorting\sorting\sorting.cpp(108,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\Moldovan\source\repos\sorting\sorting\sorting.cpp(149,51): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\sorting\sorting\sorting.cpp(149,38): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\sorting\sorting\sorting.cpp(159,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\sorting\sorting\sorting.cpp(159,33): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  sorting.vcxproj -> C:\Users\Moldovan\source\repos\sorting\Debug\sorting.exe
